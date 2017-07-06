@@ -7,3 +7,5 @@ Details of workshops and links to registration pages are as follows:
 + Citizen Science with EclipseMob - July 26, 2-4pm - Learn how to participate in EclipseMob, a crowdsourced effort to conduct the largest-ever low-frequency radio wave propagation experiment during the 2017 solar eclipse. ([Registration page](https://docs.google.com/forms/d/e/1FAIpQLSeFY_R9DGjni0Ea_mUXGalU6EvPdx1TX3pmhB33YtH9mOAYYw/viewform))
 
 Wolbach Library also allowed the library's upper floor to be used as a filming location for the children's program [Xploration Station](http://www.xplorationstation.com/). The episode featured CfA researchers and focused on space myths. Wolbach also held a [guided meditation and mindfulness introduction on July 31st](https://library.cfa.harvard.edu/event/mindfulness-cfa).
+  
+A celebration of the opening of Wolbach's new exhibition case and [inaugural exhibit](http://altbibl.io/gazette/the-first-computer-williamina-fleming-and-the-horsehead-nebula/) was also held on July 14, 2017 with guest speakers [Owen Gingerich](https://histsci.fas.harvard.edu/people/owen-gingerich) and [Barbara Welther](http://www.theskyscrapers.org/barbara-welther).
